@@ -1,0 +1,83 @@
+# Python 가상환경
+.venv/
+venv/
+ENV/
+env/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 설치된 패키지
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 환경 변수
+.env
+.env.local
+.env.*.local
+
+# 로그 파일
+*.log
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# 벡터 DB (필요시 재생성 가능, 용량 큼)
+data/chroma_db/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE 임시 파일
+*.code-workspace
+.ruff_cache/
+
+# 운영체제별 파일
+.AppleDouble
+.LSOverride
+*.manifest
+*.spec
+
+# 로컬 테스트 데이터
+data/raw/*.pdf  # 선택: PDF 파일 제외 (크기 큼)
+data/test_*
+
+# Ollama 캐시
+.ollama/
+
+# 로컬 개발 문서 (개발 단계별 자료)
+explain.md
+context.md
+development_plan.md
+
+# 기타
+*.bak
+*.tmp
+.DS_Store

@@ -1,0 +1,17 @@
+[
+  {
+    "userMsgId": "msg_d626e0a4b001eOZcy6ZDlTkrYY",
+    "assistantMsgId": "msg_d626e433e002F92r4G0tflqT05",
+    "canceledAt": 1775472928709
+  },
+  {
+    "userMsgId": "msg_d62a95d07001ssd6UYSCrpN3oN",
+    "assistantMsgId": "msg_d62a97a7c002edqChNaNDWG8Uf",
+    "canceledAt": 1775476800704
+  },
+  {
+    "userMsgId": "msg_d62ad3434001col8fb15hX5qGY",
+    "assistantMsgId": "msg_d62ad34460024HSBH4qhK4ymbh",
+    "canceledAt": 1775477228025
+  }
+]

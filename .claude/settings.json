@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 180 d:/workspace/RagChat/.venv/Scripts/python.exe src/vectorstore.py)"
+    ]
+  }
+}

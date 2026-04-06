@@ -1,0 +1,69 @@
+[
+  {
+    "id": "system:changeList:7abd97452538ba410bae2a8df6bb4599a9a644e7",
+    "commitHead": "7abd97452538ba410bae2a8df6bb4599a9a644e7",
+    "commitBase": "d453f5922ff8ce4f6545da354a776aefbec15896",
+    "files": [
+      "main.py",
+      "src/chain.py",
+      "src/embedding.py",
+      "src/loader.py",
+      "src/prompts.py",
+      "src/retrieval.py",
+      "src/splitter.py",
+      "src/vectorstore.py"
+    ],
+    "statsByPath": {
+      "main.py": {
+        "additions": 35,
+        "deletions": 0
+      },
+      "src/chain.py": {
+        "additions": 98,
+        "deletions": 0
+      },
+      "src/embedding.py": {
+        "additions": 16,
+        "deletions": 0
+      },
+      "src/loader.py": {
+        "additions": 15,
+        "deletions": 0
+      },
+      "src/prompts.py": {
+        "additions": 27,
+        "deletions": 0
+      },
+      "src/retrieval.py": {
+        "additions": 38,
+        "deletions": 0
+      },
+      "src/splitter.py": {
+        "additions": 24,
+        "deletions": 0
+      },
+      "src/vectorstore.py": {
+        "additions": 45,
+        "deletions": 0
+      }
+    },
+    "anchorMessageId": "msg_d6292f775002U14BYbIcWgF6pr",
+    "createdAt": 1775476187566
+  },
+  {
+    "id": "system:changeList:9b604dbdee14d5161652426b109a7a04714109ef",
+    "commitHead": "9b604dbdee14d5161652426b109a7a04714109ef",
+    "commitBase": "7abd97452538ba410bae2a8df6bb4599a9a644e7",
+    "files": [
+      "src/prompts.py"
+    ],
+    "statsByPath": {
+      "src/prompts.py": {
+        "additions": 1,
+        "deletions": 1
+      }
+    },
+    "anchorMessageId": "msg_d62aad3f7002JepaLcfkSloyHg",
+    "createdAt": 1775476865538
+  }
+]
